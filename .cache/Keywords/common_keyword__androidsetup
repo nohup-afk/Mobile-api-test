@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "23AA98986083543500AA54CA43934A9A",
+  "keywordClasses": [
+    {
+      "name": "common_keyword.androidsetup",
+      "keywordMethods": [
+        {
+          "name": "open_app",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
