@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-android Test suite,,,,2022-12-18 23:32:52,2022-12-18 23:33:13,21.345s,FAILED
-,,,,,,,
-Test Cases/Android Test/Test,,,,2022-12-18 23:32:52,2022-12-18 23:33:13,21.190s,FAILED
-"runFeatureFile(""Include/features/Product.feature"")",,,,2022-12-18 23:32:52,2022-12-18 23:33:13,20.966s,FAILED
